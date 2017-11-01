@@ -33,6 +33,9 @@
     <Compile Include="app\views.py" />
     <Compile Include="app\__init__.py" />
     <Compile Include="app\migrations\__init__.py" />
+    <Compile Include="DjangoWebProject2\module1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="manage.py" />
     <Compile Include="DjangoWebProject2\__init__.py" />
     <Compile Include="DjangoWebProject2\settings.py" />
